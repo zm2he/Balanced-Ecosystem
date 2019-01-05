@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Database
+comment1.params=
+comment1.target=void\ stable()
+comment2.params=
+comment2.target=void\ unstable()
+comment3.params=
+comment3.target=void\ invasive()
+comment4.params=
+comment4.target=void\ bacteria()
+comment5.params=
+comment5.target=void\ slowGrowth()
+comment6.params=
+comment6.target=void\ desert()
+comment7.params=
+comment7.target=void\ sandbox()
+comment8.params=
+comment8.target=void\ updateConstants()
+comment9.params=
+comment9.target=void\ updateConstantControl()
+numComments=10

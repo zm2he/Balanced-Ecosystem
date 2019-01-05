@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=count
+comment1.target=Food(int)
+comment10.params=num
+comment10.target=void\ updatePopulation(int)
+comment11.params=a
+comment11.target=void\ add(int)
+comment12.params=
+comment12.target=void\ reset()
+comment2.params=
+comment2.target=int\ getAliveCount()
+comment3.params=
+comment3.target=int\ getFoodLimit()
+comment4.params=
+comment4.target=double\ getFoodSpawn()
+comment5.params=num
+comment5.target=void\ setAliveCount(int)
+comment6.params=num
+comment6.target=void\ setFoodSpawn(double)
+comment7.params=num
+comment7.target=void\ setFoodLimit(int)
+comment8.params=
+comment8.target=boolean\ live()
+comment9.params=
+comment9.target=void\ updateAliveCount()
+numComments=13

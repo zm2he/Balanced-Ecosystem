@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=row\ col
+comment0.target=Creature(int,\ int)
+comment1.params=
+comment1.target=boolean\ getLive()
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+comment4.params=
+comment4.target=boolean\ getReproduce()
+comment5.params=r
+comment5.target=void\ changeRow(int)
+comment6.params=c
+comment6.target=void\ changeCol(int)
+comment7.params=grid\ row\ col
+comment7.target=int[]\ reproduce(Life[][],\ int,\ int)
+numComments=8

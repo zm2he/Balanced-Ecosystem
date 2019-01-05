@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ConstantControl
+comment1.params=
+comment1.target=ConstantControl()
+comment2.params=foodSpawn\ foodLimit\ foodEnergy\ preyHunger\ preyFoodRequired\ preyCoolDown\ preyEnergy\ predatorHunger\ predatorFoodRequired\ predatorRepCoolDown
+comment2.target=void\ update(double,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+numComments=3

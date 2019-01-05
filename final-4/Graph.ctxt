@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Graph
+comment1.params=
+comment1.target=Graph()
+comment2.params=
+comment2.target=Graph.DrawingPane\ getPane()
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=int\ getAlign()
+comment5.params=food\ prey\ predator
+comment5.target=void\ setScaling(double,\ double,\ double)
+numComments=6
